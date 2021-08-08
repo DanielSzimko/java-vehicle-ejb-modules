@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="vehicle-backend:ejb">
+    <output-path>$PROJECT_DIR$/vehicle-backend/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>vehicle-backend</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="vehicle-backend-1.0.0-SNAPSHOT.jar">
+      <element id="artifact" artifact-name="vehicle-backend:ejb exploded" />
+    </root>
+  </artifact>
+</component>

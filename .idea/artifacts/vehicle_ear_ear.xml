@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="vehicle-ear:ear">
+    <output-path>$PROJECT_DIR$/vehicle-ear/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>vehicle-ear</module>
+        <packaging>ear</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="vehicle-ear-1.0.0-SNAPSHOT.ear">
+      <element id="artifact" artifact-name="vehicle-ear:ear exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\Owner.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\Plane.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\PDFExportService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\OwnerService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\CarService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\PlaneService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\Car.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\ShipService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\Ship.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\CoreService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\VehicleTypeAware.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\service\XLSExportService.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\AbstractVehicle.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\AbstractEntity.java
+D:\Ulyssys\Oktatás\Órai Anyagok\java-primefaces-demo-master\vehicle-api\src\main\java\hu\ulyssys\java\course\javaee\demo\vehicle\entity\VehicleType.java

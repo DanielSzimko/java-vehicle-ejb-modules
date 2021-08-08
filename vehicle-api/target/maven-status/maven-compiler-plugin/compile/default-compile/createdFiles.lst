@@ -1,0 +1,15 @@
+hu\ulyssys\java\course\javaee\demo\vehicle\service\PDFExportService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\AbstractVehicle.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\ShipService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\XLSExportService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\Plane.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\CoreService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\CarService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\Car.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\Ship.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\Owner.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\VehicleTypeAware.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\OwnerService.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\AbstractEntity.class
+hu\ulyssys\java\course\javaee\demo\vehicle\entity\VehicleType.class
+hu\ulyssys\java\course\javaee\demo\vehicle\service\PlaneService.class

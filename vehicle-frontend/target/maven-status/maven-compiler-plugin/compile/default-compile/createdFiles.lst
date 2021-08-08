@@ -1,0 +1,7 @@
+hu\ulyssys\java\course\javaee\demo\vehicle\converter\AppOwnerConverter.class
+hu\ulyssys\java\course\javaee\demo\vehicle\mbean\CarCRUDMbean.class
+hu\ulyssys\java\course\javaee\demo\vehicle\mbean\CoreCRUDMbean.class
+hu\ulyssys\java\course\javaee\demo\vehicle\mbean\ShipCRUDMbean.class
+hu\ulyssys\java\course\javaee\demo\vehicle\mbean\PlaneCRUDMbean.class
+hu\ulyssys\java\course\javaee\demo\vehicle\mbean\OwnerCRUDMbean.class
+hu\ulyssys\java\course\javaee\demo\vehicle\converter\OwnerConverter.class
